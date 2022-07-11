@@ -2,6 +2,18 @@
   text-align: center;
 }
 
+.react-banner{
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: aliceblue;
+  text-align: left;
+  text-indent: 2%;
+}
+
+.react-exhibit{
+  background-color: #282c33;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
