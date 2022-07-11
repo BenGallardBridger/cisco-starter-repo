@@ -1,0 +1,12 @@
+.Banner {
+    text-align: left;
+    text-indent: 1%;
+    font-weight: bold;
+    font-size: 1vw;
+    color: white;
+    background-color: #282c34;
+    border-bottom: 0.25vw solid #005266;
+}
+h1{
+    margin: 0%;
+}
